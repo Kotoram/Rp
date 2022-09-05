@@ -24,6 +24,8 @@ Zloženie:
 - Možné upravenie podkladu (základné 4 elementy, je možné vytvoriť nový element, zmazať element, upraviť predpripravené atribúty elementu)    
 
 
+## Ostatné (Jednotky, budovy...)  
 
+(prefab, ktorý je možné upraviť podľa potreby dizajnéra)
 
 
